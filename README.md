@@ -13,11 +13,11 @@ pip install tweepy
 
 - 4.) Run the code: You can run the code by executing it in your Python environment or by running it from the terminal/command prompt by using the following command:
 
-Copy code
-python filename.py
-Where filename.py is the name of the file that contains the code.
 
-Once the code is running, it will perform the automated social media interactions according to the defined parameters (query string and count). Note that excessive automation can result in your account being flagged or banned by the social media platform, so be sure to use it responsibly.
+- python filename.py
+- Where filename.py is the name of the file that contains the code.
+
+- Once the code is running, it will perform the automated social media interactions according to the defined parameters (query string and count). Note that excessive automation can result in your account being flagged or banned by the social media platform, so be sure to use it responsibly.
 
 
 
