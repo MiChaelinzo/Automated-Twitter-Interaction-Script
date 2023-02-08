@@ -1,7 +1,7 @@
 # Automated-Twitter-Interaction-Script
 This code is a script that automates various social media interactions such as liking tweets, retweeting tweets, posting tweets, and following users. It takes two arguments as inputs: a query string and a count of how many tweets/users to interact with. The interactions are performed in a loop, with a sleep interval of 1 hour, and continue indefinitely until manually stopped. The code allows for customizing the types of interactions you want to automate, but it should be used responsibly as excessive automation can result in your account being flagged or banned by the social media platform.
 
-To use the code above, you will need to do the following steps:
+#### To use the code above, you will need to do the following steps:
 
 - 1.) Install the required libraries: The code uses the tweepy library for accessing the Twitter API, so you will need to install it by running the following command in your terminal/command prompt:
 Copy code
