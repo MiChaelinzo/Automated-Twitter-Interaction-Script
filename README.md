@@ -22,4 +22,5 @@ pip install tweepy
 
 
 
+![DALL·E 2023-02-09 09 06 52 - Twitter](https://user-images.githubusercontent.com/68110223/217731798-a7988a44-dc45-4d73-9fcd-84f5b0efbbe3.png)
 
