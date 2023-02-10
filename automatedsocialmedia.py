@@ -41,7 +41,8 @@ instagram_api = instagram.API(instagram_auth)
 def like_tweets(query, count):
     """Like tweets that match a query."""
     logger.info(f"Liking {count} tweets that match query: {query}")
-    tweets = tweepy.Cursor(api.
+    tweets = tweepy.Cursor(api.search, q=query, lang="en").items(count)
+
 
     try:
         for tweet in tweepy.Cursor(api.search, q=query, tweet_mode="extended").items(count):
