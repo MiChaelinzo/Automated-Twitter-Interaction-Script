@@ -37,6 +37,8 @@ api = tweepy.API(auth)
 facebook_api = facebook.API(facebook_auth)
 instagram_api = instagram.API(instagram_auth)
 
+query = "some query"
+count = 10
 
 def like_tweets(query, count):
     """Like tweets that match a query."""
