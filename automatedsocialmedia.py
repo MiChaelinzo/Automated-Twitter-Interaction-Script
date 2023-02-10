@@ -37,6 +37,7 @@ api = tweepy.API(auth)
 facebook_api = facebook.API(facebook_auth)
 instagram_api = instagram.API(instagram_auth)
 
+# Edit the query and count
 query = "some query"
 count = 10
 
