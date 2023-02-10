@@ -14,10 +14,6 @@ auth.set_access_token(access_token, access_token_secret)
 # Create API object
 api = tweepy.API(auth)
 
-# Edit the query and count
-query = "some query"
-count = 10
-
 def like_tweets(query, count):
     # Search for tweets containing the given query and like them
     tweets = api.search(q=query, count=count)
