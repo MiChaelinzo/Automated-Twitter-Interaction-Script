@@ -4,8 +4,8 @@ This code is a script that automates various social media interactions such as l
 #### To use the code above, you will need to do the following steps:
 
 - 1.) Install the required libraries: The code uses the tweepy library for accessing the Twitter API, so you will need to install it by running the following command in your terminal/command prompt:
-Copy code
-pip install tweepy
+
+pip3 install tweepy
 
 - 2.) Create a Twitter Developer Account: To use the Twitter API, you need to create a Twitter developer account and obtain API credentials (consumer key, consumer secret, access token, and access secret). You can do this by visiting the Twitter Developer website and following the instructions there.
 
@@ -14,7 +14,7 @@ pip install tweepy
 - 4.) Run the code: You can run the code by executing it in your Python environment or by running it from the terminal/command prompt by using the following command:
 
 
-- python automatedtwitter.py
+- python3 automatedtwitter.py
 - Where automatedtwitter.py is the name of the file that contains the code.
 
 - Once the code is running, it will perform the automated social media interactions according to the defined parameters (query string and count). Note that excessive automation can result in your account being flagged or banned by the social media platform, so be sure to use it responsibly.
