@@ -24,3 +24,4 @@ This code is a script that automates various social media interactions such as l
 
 ![DALL·E 2023-02-09 09 06 52 - Twitter](https://user-images.githubusercontent.com/68110223/217731798-a7988a44-dc45-4d73-9fcd-84f5b0efbbe3.png)
 
+![de2785b5-f871-4f4a-8744-a908dcfa8830](https://user-images.githubusercontent.com/68110223/218984919-ac27ef7c-eab3-4027-b10a-12649958ca7c.png)
